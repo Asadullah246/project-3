@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fullArea{
+    height: 2500px;
+    width: 1500px;
+    margin-left: 100px;
+    
+
+}
+
+.menu{
+    
+    background-color: rgb(150, 72, 72);
+    height: 36px;
+    
+      
+
+}
+.font-color{
+    color: white;
+
+}
+.orange{
+    color: orange;
+}
+.first-item{
+    display: inline-block;
+    margin-left: 30px;
+}
+.second-item{
+display: inline-block;
+margin-inline-start: 750px;
+ 
+}
+.menu-list{
+   
+
+}
+
+.menu-list li{
+display: inline-block;
+
+
+}
+.menu-list li a{
+    text-decoration: none;
+    
+    border-left: 1px solid blue;
+    padding: 10px 10px;
+
+    
+}
+/* body */
+
+.body2{
+    padding-top: 200px;
+    background-image: url(download.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 2000px;
+}
+.management{
+    
+    margin-bottom: 10px;
+    padding-top: 10px;
+}
+.middle{
+    
+    text-align: center;
+}
+.classroom{
+  padding-bottom: 20px;  
+  font-size: 35px;
+}
+
+.discover{
+   text-decoration: none;
+   margin-top: 100px;
+   padding: 10px 10px;
+   background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+   font-weight: 800;
+   border-radius: 5px;
+
+}
+.small-div{
+    margin-top: 150px;
+    margin-left: 50px;
+    padding: 10px 10px;
+    width: 300px;
+    background-color: rgb(196, 106, 106);
+    
+   
+    
+}
+.lorem1{
+    text-align: justify;
+}
+.allcourses{
+    text-align: center;
+}
+
+.cen{
+    text-align: center;
+    font-weight: 800;
+}
+
+/* 3rd section */
+
+.third-section{
+    display: flex;
+}
+.virtual{
+    display: inline-block;
+    padding-top: 300px;
+    padding-left: 200px;
+}
+.real{
+    display: inline-block;
+    padding-left:300px;
+}
+.why{
+    text-align: center;
+    margin-top: 200px;
+}
+.why-choose{
+    display: flex;
+
+}
+.best{
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 50px;
+    border: 2px solid orange;
+    padding: 16px 10px;
+    background-color: rgb(95, 102, 201);
+}
+.forthSection{
+    display: flex;
+    margin-top: 200px;
+}
+.bestEdu{
+    text-align: center;
+    margin-left: 400px;
+    padding-bottom: 30px;
+    font-size: 2em;
+}
+.img2{
+    padding-left: 30px;
+}
+.lorem20{
+    width: 500px;
+    margin-left: 400px;
+    font-size: 1.5em;
+
+}
